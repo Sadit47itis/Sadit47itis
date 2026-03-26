@@ -30,6 +30,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+
 ---
 
 #### 🤖 Machine Learning & Data Science
@@ -67,6 +68,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-F80000?style=for-the-badge)
+![LTSpice](https://img.shields.io/badge/LTSpice-0070C0?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -93,7 +98,7 @@
 
 ### 📊 GitHub Stats
 ![Sadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadit47itis&show_icons=true&theme=tokyonight&hide_title=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadit47itis&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🔗 Connect with Me
