@@ -32,7 +32,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 ---
 
 #### 🤖 Machine Learning & Data Science
@@ -87,12 +86,13 @@
 ---
 
 ### 📌 Featured Projects
-- 🧠 **Lung Cancer Detection using 3D CNN on CT Scan Volumes**  
-- 📈 **Stock Price Prediction with Crude Oil Price Fluctuations**
-- 🚗 **Ride Sharing Web Application (Django + MySQL)**  
-- 🛒 **E-commerce Website: Bazar Koro (MERN Stack)**  
-- 🎨 **Imagify: AI Text-to-Image Generator App (MERN Stack)**
-- 🔐 **Security Login System (8086 Assembly)**  
+- 🏢 **[FusionPlus: Post-Disaster Building Damage Assessment](https://github.com/Sadit47itis/FusionPlus-Post-Disaster-Building-Damage-Assessment)**
+- 🧠 **[Lung Cancer Detection using 3D CNN on CT Scan Volumes](https://github.com/Sadit47itis/LUNGCANCER_Detection_ML-DL)**  
+- 📈 **[Stock Price Prediction with Crude Oil Price Fluctuations](https://github.com/Sadit47itis/Stock-Price-Prediction-with-Crude-Oil-Price-Fluctuations)**
+- 🚌 **[Bus Ticket Reservation System (Django + MySQL)](https://github.com/Sadit47itis/Bus_ticket_reservation_system_DJANGO)**  
+- 🛒 **[E-commerce Website: Bazar Koro](https://www.bazarkoro1.com)** (MERN Stack)  
+- 🎨 **[Imagify: AI Text-to-Image Generator App](https://github.com/Sadit47itis/Imagify__AI-Image-Generator)** (MERN Stack)
+- 🔐 **[Security Login System (8086 Assembly)](https://github.com/Sadit47itis/Security_Login_System_Intel8086)**  
 - 🚙 **Arduino Hybrid RC Car with Voice Control & Ultrasonic Object Detection**  
 - 🏠 **Home Security System with RFID Scanner**   
 
